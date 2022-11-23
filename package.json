@@ -24,7 +24,7 @@
     "mongodb": "^3.5.7",
     "mongoose": "^5.9.14",
     "shortid": "^2.2.15",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   },
   "author": "behnammnasehi@gmail.com",
   "license": "ISC"
