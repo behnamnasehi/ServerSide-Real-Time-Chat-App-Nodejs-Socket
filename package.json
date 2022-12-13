@@ -15,7 +15,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "config": "^3.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fcm-node": "^1.5.2",
     "hashmap": "^2.4.0",
     "joi": "^14.3.1",
