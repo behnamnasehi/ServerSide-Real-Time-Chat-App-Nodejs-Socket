@@ -19,7 +19,7 @@
     "fcm-node": "^1.5.2",
     "hashmap": "^2.4.0",
     "joi": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "mongodb": "^3.5.7",
     "mongoose": "^5.9.14",
